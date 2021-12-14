@@ -32,6 +32,10 @@ OS these should be easy to obtain. One can then install Pyzo with
 
 We also provide [binaries](https://github.com/pyzo/pyzo/releases) for Windows, Linux and MacOS.
 
+The Windows binary can also be installed and upgraded with [Scoop](https://scoop.sh):
+
+    scoop install pyzo
+    scoop upgrade pyzo
 
 ### License
 
